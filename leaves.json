@@ -1,0 +1,26 @@
+{
+   "user": [
+       {
+           "username": "Clark",
+           "leavetype": "Annual",
+		   "reason": "Vacation",
+           "startdate": "2021-12-10",
+           "startdateAMPM": "AM",
+           "enddate": "2021-12-15",
+           "enddateAMPM": "PM",
+           "submissiondatetime": "2021-11-09T01:02:03.000Z",
+           "applicationstatus": "pending",
+       },
+	   {
+           "username": "Clark",
+           "leavetype": "Compassionate",
+		   "reason": "Family Member",
+           "startdate": "2021-12-20",
+           "startdateAMPM": "AM",
+           "enddate": "2021-12-20",
+           "enddateAMPM": "PM",
+           "submissiondatetime": "2021-12-20T06:30:37.000Z",
+           "applicationstatus": "pending",
+       }
+   ]
+}
