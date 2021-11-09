@@ -1,22 +1,39 @@
 {
-   "person": [
+   "user": [
        {
-           "firstName": "Clark",
-           "lastName": "Kent",
-           "job": "Reporter",
-           "roll": 20
+           "username": "Clark",
+           "password": "mememe",
+           "annualleavecount": "14.0",
+           "medicalleavecount": "30.0",
+           "compassionateleavecount": "5.0",
+           "childcareleavecount": "5.0",
+           "paidleavecount": "4.0",
+           "medicalclaimbalance": "300.00",
+           "transportclaimbalance": "120.00",
+           "othersclaimamount": "300.00"
        },
        {
-           "firstName": "Bruce",
-           "lastName": "Wayne",
-           "job": "Playboy",
-           "roll": 30
-       },
-       {
-           "firstName": "Peter",
-           "lastName": "Parker",
-           "job": "Photographer",
-           "roll": 40
+           "username": "John",
+           "password": "mememe",
+           "annualleavecount": "14.0",
+           "medicalleavecount": "30.0",
+           "compassionateleavecount": "5.0",
+           "childcareleavecount": "5.0",
+           "paidleavecount": "4.0",
+           "medicalclaimbalance": "300.00",
+           "transportclaimbalance": "120.00",
+           "othersclaimamount": "300.00"
+       },{
+           "username": "Paul",
+           "password": "mememe",
+           "annualleavecount": "14.0",
+           "medicalleavecount": "30.0",
+           "compassionateleavecount": "5.0",
+           "childcareleavecount": "5.0",
+           "paidleavecount": "4.0",
+           "medicalclaimbalance": "300.00",
+           "transportclaimbalance": "120.00",
+           "othersclaimamount": "300.00"
        }
    ]
 }
