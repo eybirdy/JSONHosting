@@ -9,7 +9,7 @@
            "enddate": "2021-12-15",
            "enddateAMPM": "PM",
            "submissiondatetime": "2021-11-09T01:02:03.000Z",
-           "applicationstatus": "pending",
+           "applicationstatus": "pending"
        },{
 	   "username": "Clark",
            "leavetype": "Compassionate",
@@ -19,7 +19,7 @@
            "enddate": "2021-12-20",
            "enddateAMPM": "PM",
            "submissiondatetime": "2021-12-20T06:30:37.000Z",
-           "applicationstatus": "pending",
+           "applicationstatus": "pending"
        }
    ]
 }
