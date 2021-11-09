@@ -10,9 +10,8 @@
            "enddateAMPM": "PM",
            "submissiondatetime": "2021-11-09T01:02:03.000Z",
            "applicationstatus": "pending",
-       },
-	   {
-           "username": "Clark",
+       },{
+	   "username": "Clark",
            "leavetype": "Compassionate",
 	   "reason": "Family Member",
            "startdate": "2021-12-20",
