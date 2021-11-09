@@ -10,7 +10,7 @@
            "paidleavecount": "4.0",
            "medicalclaimbalance": "300.00",
            "transportclaimbalance": "120.00",
-           "othersclaimamount": "300.00"
+           "othersclaimbalance": "300.00"
        },
        {
            "username": "John",
@@ -22,7 +22,7 @@
            "paidleavecount": "4.0",
            "medicalclaimbalance": "300.00",
            "transportclaimbalance": "120.00",
-           "othersclaimamount": "300.00"
+           "othersclaimbalance": "300.00"
        },{
            "username": "Paul",
            "password": "mememe",
@@ -33,7 +33,7 @@
            "paidleavecount": "4.0",
            "medicalclaimbalance": "300.00",
            "transportclaimbalance": "120.00",
-           "othersclaimamount": "300.00"
+           "othersclaimbalance": "300.00"
        }
    ]
 }
