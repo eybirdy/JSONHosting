@@ -1,0 +1,22 @@
+{
+   "user": [
+       {
+           "username": "Clark",
+           "claimtype": "Medical",
+		   "amount": "150.00",
+           "reason": "Physiotherapy",
+           "file": "receipt.png",
+           "submissiondatetime": "2021-11-09T01:02:03.000Z",
+           "applicationstatus": "pending"
+       },
+	   {
+           "username": "Clark",
+           "claimtype": "Transport",
+		   "amount": "20.00",
+           "reason": "Pick up",
+           "file": "grab.pdf",
+           "submissiondatetime": "2021-11-09T01:02:03.000Z",
+           "applicationstatus": "pending"
+       }
+   ]
+}
