@@ -1,0 +1,39 @@
+{
+   "user": [
+       {
+           "username": "Clark",
+           "password": "password",
+           "annualleavecount": "14.0",
+           "medicalleavecount": "30.0",
+           "compassionateleavecount": "5.0",
+           "childcareleavecount": "5.0",
+           "paidleavecount": "4.0",
+           "medicalclaimbalance": "300.00",
+           "transportclaimbalance": "120.00",
+           "othersclaimbalance": "300.00"
+       },
+       {
+           "username": "John",
+           "password": "password",
+           "annualleavecount": "10.0",
+           "medicalleavecount": "10.0",
+           "compassionateleavecount": "5.0",
+           "childcareleavecount": "5.0",
+           "paidleavecount": "4.0",
+           "medicalclaimbalance": "500.00",
+           "transportclaimbalance": "120.00",
+           "othersclaimbalance": "30.00"
+       },{
+           "username": "Paul",
+           "password": "password",
+           "annualleavecount": "5.0",
+           "medicalleavecount": "20.0",
+           "compassionateleavecount": "5.0",
+           "childcareleavecount": "5.0",
+           "paidleavecount": "1.0",
+           "medicalclaimbalance": "400.00",
+           "transportclaimbalance": "80.00",
+           "othersclaimbalance": "400.00"
+       }
+   ]
+}
